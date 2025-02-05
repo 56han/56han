@@ -8,14 +8,15 @@ I have experience in various programming languages and technologies, and I enjoy
 🔗 Know about my experiences: https://www.linkedin.com/in/yi-han-wan/
 
 ## 📊 Yi-Han, Wan's GitHub Stats  
-<div align="center">
+<div align="left">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=56han&show_icons=true&theme=dark" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=56han&layout=compact&langs_count=6&theme=dark" />
 </div>
 
 
 ## 🛠 Programming Language Stack  
-<p align="center">
+<p align="left">
+  <a href="https://www.cprogramming.com/"><img src="https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white"/></a>
   <a href="https://isocpp.org/"><img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/></a>
   <a href="https://www.python.org/"><img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white"/></a>
   <a href="https://developer.nvidia.com/cuda-zone"><img src="https://img.shields.io/badge/-Cuda-76B900?style=flat-square&logo=nvidia&logoColor=white"/></a>
@@ -23,13 +24,6 @@ I have experience in various programming languages and technologies, and I enjoy
   <a href="https://www.mathworks.com/products/matlab.html"><img src="https://img.shields.io/badge/-MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white"/></a>
   <a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/></a>
 </p>
-<!-- [![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)  
-[![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))  
-[![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)  
-[![CUDA](https://img.shields.io/badge/-Cuda-76B900?style=flat-square&logo=nvidia&logoColor=white)](https://developer.nvidia.com/cuda-zone)  
-[![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)](https://opencv.org/)  
-[![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)](https://www.mathworks.com/products/matlab.html)  
-[![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)](https://www.mysql.com/)   -->
 
 ## ⚙️ Tool Stack  
 [![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)  
