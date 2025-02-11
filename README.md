@@ -11,7 +11,7 @@ I have experience in various programming languages and technologies, and I enjoy
 ## 📊 Yi-Han, Wan's GitHub Stats  
 <div align="left">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=56han&show_icons=true&theme=dark" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=56han&layout=compact&theme=dark" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=56han&layout=compact&langs_count=6&theme=dark" />
 </div>
 
 ## 🛠 Programming Language Stack  
